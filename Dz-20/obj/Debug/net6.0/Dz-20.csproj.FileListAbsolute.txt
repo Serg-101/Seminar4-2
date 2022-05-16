@@ -1,0 +1,15 @@
+C:\Code\Seminar4-2\Dz-20\bin\Debug\net6.0\Dz-20.exe
+C:\Code\Seminar4-2\Dz-20\bin\Debug\net6.0\Dz-20.deps.json
+C:\Code\Seminar4-2\Dz-20\bin\Debug\net6.0\Dz-20.runtimeconfig.json
+C:\Code\Seminar4-2\Dz-20\bin\Debug\net6.0\Dz-20.dll
+C:\Code\Seminar4-2\Dz-20\bin\Debug\net6.0\Dz-20.pdb
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\Dz-20.csproj.AssemblyReference.cache
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\Dz-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\Dz-20.AssemblyInfoInputs.cache
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\Dz-20.AssemblyInfo.cs
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\Dz-20.csproj.CoreCompileInputs.cache
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\Dz-20.dll
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\refint\Dz-20.dll
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\Dz-20.pdb
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\Dz-20.genruntimeconfig.cache
+C:\Code\Seminar4-2\Dz-20\obj\Debug\net6.0\ref\Dz-20.dll
